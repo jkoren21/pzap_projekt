@@ -1,0 +1,133 @@
+Country name,Regional indicator,Ladder score,Healthy life expectancy,CapitalName,CapitalLatitude,CapitalLongitude
+Finland,Western Europe,7.741,0.695,Helsinki,60.16666666666666,24.933333
+Denmark,Western Europe,7.583,0.699,Copenhagen,55.66666666666666,12.583333
+Iceland,Western Europe,7.525,0.718,Reykjavik,64.15,-21.95
+Sweden,Western Europe,7.344,0.724,Stockholm,59.333333333333336,18.05
+Israel,Middle East and North Africa,7.341,0.74,Jerusalem,31.766666666666666,35.233333
+Netherlands,Western Europe,7.319,0.706,Amsterdam,52.35,4.916667
+Norway,Western Europe,7.302,0.704,Oslo,59.91666666666666,10.75
+Luxembourg,Western Europe,7.122,0.708,Luxembourg,49.6,6.116667
+Switzerland,Western Europe,7.06,0.747,Bern,46.91666666666666,7.466667
+Australia,North America and ANZ,7.057,0.692,Canberra,-35.266666666666666,149.133333
+New Zealand,North America and ANZ,7.029,0.673,Wellington,-41.3,174.783333
+Costa Rica,Latin America and Caribbean,6.955,0.661,San Jose,9.933333333333334,-84.083333
+Kuwait,Middle East and North Africa,6.951,0.661,Kuwait City,29.366666666666667,47.966667
+Austria,Western Europe,6.905,0.696,Vienna,48.2,16.366667
+Canada,North America and ANZ,6.9,0.701,Ottawa,45.41666666666666,-75.7
+Belgium,Western Europe,6.894,0.69,Brussels,50.833333333333336,4.333333
+Ireland,Western Europe,6.838,0.7,Dublin,53.31666666666667,-6.233333
+Lithuania,Central and Eastern Europe,6.818,0.598,Vilnius,54.68333333333333,25.316667
+United Kingdom,Western Europe,6.749,0.672,London,51.5,-0.083333
+Slovenia,Central and Eastern Europe,6.743,0.695,Ljubljana,46.05,14.516667
+United Arab Emirates,Middle East and North Africa,6.733,0.563,Abu Dhabi,24.466666666666665,54.366667
+United States,North America and ANZ,6.725,0.542,Washington,38.883333,-77.0
+Germany,Western Europe,6.719,0.702,Berlin,52.516666666666666,13.4
+Mexico,Latin America and Caribbean,6.678,0.544,Mexico City,19.433333333333334,-99.133333
+Uruguay,Latin America and Caribbean,6.611,0.592,Montevideo,-34.85,-56.166667
+France,Western Europe,6.609,0.727,Paris,48.86666666666667,2.333333
+Saudi Arabia,Middle East and North Africa,6.594,0.511,Riyadh,24.65,46.7
+Kosovo,Central and Eastern Europe,6.561,0.599,Pristina,42.66666666666666,21.166667
+Singapore,Southeast Asia,6.523,0.769,Singapore,1.2833333333333332,103.85
+Romania,Central and Eastern Europe,6.491,0.583,Bucharest,44.43333333333333,26.1
+El Salvador,Latin America and Caribbean,6.469,0.549,San Salvador,13.7,-89.2
+Estonia,Central and Eastern Europe,6.448,0.657,Tallinn,59.43333333333333,24.716667
+Poland,Central and Eastern Europe,6.442,0.639,Warsaw,52.25,21.0
+Spain,Western Europe,6.421,0.729,Madrid,40.4,-3.683333
+Serbia,Central and Eastern Europe,6.411,0.585,Belgrade,44.833333333333336,20.5
+Chile,Latin America and Caribbean,6.36,0.673,Santiago,-33.45,-70.666667
+Panama,Latin America and Caribbean,6.358,0.633,Panama City,8.966666666666667,-79.533333
+Malta,Western Europe,6.346,0.707,Valletta,35.88333333333333,14.5
+Italy,Western Europe,6.324,0.72,Rome,41.9,12.483333
+Guatemala,Latin America and Caribbean,6.287,0.467,Guatemala City,14.616666666666667,-90.516667
+Nicaragua,Latin America and Caribbean,6.284,0.542,Managua,12.133333333333333,-86.25
+Brazil,Latin America and Caribbean,6.272,0.548,Brasilia,-15.783333333333331,-47.916667
+Slovakia,Central and Eastern Europe,6.257,0.638,Bratislava,48.15,17.116667
+Latvia,Central and Eastern Europe,6.234,0.564,Riga,56.95,24.1
+Uzbekistan,Commonwealth of Independent States,6.195,0.539,Tashkent,41.31666666666667,69.25
+Argentina,Latin America and Caribbean,6.188,0.585,Buenos Aires,-34.583333333333336,-58.666667
+Kazakhstan,Commonwealth of Independent States,6.188,0.556,Astana,51.16666666666666,71.416667
+Cyprus,Western Europe,6.068,0.744,Nicosia,35.166666666666664,33.366667
+Japan,East Asia,6.06,0.785,Tokyo,35.68333333333333,139.75
+South Korea,East Asia,6.058,0.77,Seoul,37.55,126.983333
+Philippines,Southeast Asia,6.048,0.441,Manila,14.6,120.966667
+Vietnam,Southeast Asia,6.043,0.539,Hanoi,21.03333333333333,105.85
+Portugal,Western Europe,6.03,0.699,Lisbon,38.71666666666667,-9.133333
+Hungary,Central and Eastern Europe,6.017,0.596,Budapest,47.5,19.083333
+Paraguay,Latin America and Caribbean,5.977,0.549,Asuncion,-25.266666666666666,-57.666667
+Thailand,Southeast Asia,5.976,0.62,Bangkok,13.75,100.516667
+Malaysia,Southeast Asia,5.975,0.54,Kuala Lumpur,3.1666666666666665,101.7
+China,East Asia,5.973,0.629,Beijing,39.91666666666666,116.383333
+Honduras,Latin America and Caribbean,5.968,0.502,Tegucigalpa,14.1,-87.216667
+Bahrain,Middle East and North Africa,5.959,,Manama,26.23333333333333,50.566667
+Croatia,Central and Eastern Europe,5.942,0.637,Zagreb,45.8,16.0
+Greece,Western Europe,5.934,0.696,Athens,37.98333333333333,23.733333
+Bosnia and Herzegovina,Central and Eastern Europe,5.877,0.587,Sarajevo,43.86666666666667,18.416667
+Libya,Middle East and North Africa,5.866,0.55,Tripoli,32.88333333333333,13.166667
+Jamaica,Latin America and Caribbean,5.842,0.567,Kingston,18.0,-76.8
+Peru,Latin America and Caribbean,5.841,0.662,Lima,-12.05,-77.05
+Dominican Republic,Latin America and Caribbean,5.823,0.511,Santo Domingo,18.466666666666665,-69.9
+Mauritius,Sub-Saharan Africa,5.816,0.49,Port Louis,-20.15,57.483333
+Moldova,Commonwealth of Independent States,5.816,0.542,Chisinau,47.0,28.85
+Russia,Commonwealth of Independent States,5.785,0.531,Moscow,55.75,37.6
+Bolivia,Latin America and Caribbean,5.784,0.488,La Paz,-16.5,-68.15
+Ecuador,Latin America and Caribbean,5.725,0.64,Quito,-0.2166666666666666,-78.5
+Kyrgyzstan,Commonwealth of Independent States,5.714,0.588,Bishkek,42.86666666666667,74.6
+Montenegro,Central and Eastern Europe,5.707,0.587,Podgorica,42.43333333333333,19.266667
+Mongolia,East Asia,5.696,0.4,Ulaanbaatar,47.91666666666666,106.916667
+Colombia,Latin America and Caribbean,5.695,0.648,Bogota,4.6,-74.083333
+Venezuela,Latin America and Caribbean,5.607,0.491,Caracas,10.483333333333333,-66.866667
+Indonesia,Southeast Asia,5.568,0.472,Jakarta,-6.166666666666667,106.816667
+Bulgaria,Central and Eastern Europe,5.463,0.567,Sofia,42.68333333333333,23.316667
+Armenia,Commonwealth of Independent States,5.455,0.603,Yerevan,40.16666666666666,44.5
+South Africa,Sub-Saharan Africa,5.422,0.322,Pretoria,-25.7,28.216667
+Algeria,Middle East and North Africa,5.364,0.568,Algiers,36.75,3.05
+Albania,Central and Eastern Europe,5.304,0.638,Tirana,41.31666666666667,19.816667
+Tajikistan,Commonwealth of Independent States,5.281,,Dushanbe,38.55,68.766667
+Mozambique,Sub-Saharan Africa,5.216,0.156,Maputo,-25.95,32.583333
+Georgia,Commonwealth of Independent States,5.185,0.524,Tbilisi,41.68333333333333,44.833333
+Iraq,Middle East and North Africa,5.166,0.498,Baghdad,33.333333333333336,44.4
+Nepal,South Asia,5.158,0.443,Kathmandu,27.716666666666665,85.316667
+Laos,Southeast Asia,5.139,0.423,Vientiane,17.966666666666665,102.6
+Gabon,Sub-Saharan Africa,5.106,0.344,Libreville,0.3833333333333333,9.45
+Guinea,Sub-Saharan Africa,5.023,0.236,Conakry,9.5,-13.7
+Senegal,Sub-Saharan Africa,4.969,0.392,Dakar,14.733333333333333,-17.633333
+Iran,Middle East and North Africa,4.923,0.571,Tehran,35.7,51.416667
+Azerbaijan,Commonwealth of Independent States,4.893,0.496,Baku,40.38333333333333,49.866667
+Nigeria,Sub-Saharan Africa,4.881,0.256,Abuja,9.083333333333334,7.533333
+Cameroon,Sub-Saharan Africa,4.874,0.288,Yaounde,3.8666666666666663,11.516667
+Ukraine,Commonwealth of Independent States,4.873,0.513,Kyiv,50.43333333333333,30.516667
+Namibia,Sub-Saharan Africa,4.832,0.307,Windhoek,-22.566666666666663,17.083333
+Morocco,Middle East and North Africa,4.795,0.495,Rabat,34.016666666666666,-6.816667
+Pakistan,South Asia,4.657,0.321,Islamabad,33.68333333333333,73.05
+Niger,Sub-Saharan Africa,4.556,0.293,Niamey,13.516666666666667,2.116667
+Burkina Faso,Sub-Saharan Africa,4.548,0.274,Ouagadougou,12.366666666666667,-1.516667
+Mauritania,Sub-Saharan Africa,4.505,0.4,Nouakchott,18.066666666666663,-15.966667
+Chad,Sub-Saharan Africa,4.471,0.199,N'Djamena,12.1,15.033333
+Kenya,Sub-Saharan Africa,4.47,0.353,Nairobi,-1.2833333333333332,36.816667
+Tunisia,Middle East and North Africa,4.422,0.579,Tunis,36.8,10.183333
+Benin,Sub-Saharan Africa,4.377,0.284,Porto-Novo,6.483333333333333,2.616667
+Uganda,Sub-Saharan Africa,4.372,0.373,Kampala,0.3166666666666666,32.55
+Myanmar,Southeast Asia,4.354,0.436,Rangoon,16.8,96.15
+Cambodia,Southeast Asia,4.341,0.442,Phnom Penh,11.55,104.916667
+Ghana,Sub-Saharan Africa,4.289,0.36,Accra,5.55,-0.216667
+Liberia,Sub-Saharan Africa,4.269,0.301,Monrovia,6.3,-10.8
+Mali,Sub-Saharan Africa,4.232,0.267,Bamako,12.65,-8.0
+Madagascar,Sub-Saharan Africa,4.228,0.333,Antananarivo,-18.916666666666668,47.516667
+Togo,Sub-Saharan Africa,4.214,0.32,Lome,6.116666666666666,1.216667
+Jordan,Middle East and North Africa,4.186,0.594,Amman,31.95,35.933333
+India,South Asia,4.054,0.417,New Delhi,28.6,77.2
+Egypt,Middle East and North Africa,3.977,0.488,Cairo,30.05,31.25
+Sri Lanka,South Asia,3.898,0.586,Colombo,6.916666666666667,79.833333
+Bangladesh,South Asia,3.886,0.513,Dhaka,23.716666666666665,90.4
+Ethiopia,Sub-Saharan Africa,3.861,0.42,Addis Ababa,9.033333333333331,38.7
+Tanzania,Sub-Saharan Africa,3.781,0.38,Dar es Salaam,-6.8,39.283333
+Comoros,Sub-Saharan Africa,3.566,0.37,Moroni,-11.7,43.233333
+Yemen,Middle East and North Africa,3.561,0.293,Sanaa,15.35,44.2
+Zambia,Sub-Saharan Africa,3.502,0.264,Lusaka,-15.416666666666666,28.283333
+Malawi,Sub-Saharan Africa,3.421,0.349,Lilongwe,-13.966666666666669,33.783333
+Botswana,Sub-Saharan Africa,3.383,0.241,Gaborone,-24.633333333333333,25.9
+Zimbabwe,Sub-Saharan Africa,3.341,0.232,Harare,-17.816666666666666,31.033333
+Sierra Leone,Sub-Saharan Africa,3.245,0.253,Freetown,8.483333333333333,-13.233333
+Lesotho,Sub-Saharan Africa,3.186,0.0,Maseru,-29.316666666666663,27.483333
+Lebanon,Middle East and North Africa,2.707,0.556,Beirut,33.86666666666667,35.5
+Afghanistan,South Asia,1.721,0.242,Kabul,34.516666666666666,69.183333
