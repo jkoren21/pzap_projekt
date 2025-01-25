@@ -1,7 +1,9 @@
 # pzap_projekt
 
-Projekt iz predmeta : Programiranje za analizu podataka
+Projekt iz predmeta : Programiranje za analizu podataka 
+
 Tema : Utjecaj zagađenja zraka na sreću stanovnika
+
 Izradio : Josip Koren 
 
 Cijeli projekt se nalazi unutar projekt.ipynb jupyter notebook datoteke.
